@@ -12,7 +12,7 @@ This repository contains an AI SQL Generator, a tool powered by OpenAI's GPT-4 l
 
 - Node.js: Backend server and API handling.
 
-<h1>How to Use ❓</h1>
+<h1>How to Use ⚙️</h1>
 
 1. Enter your query in the input box
 
@@ -21,14 +21,6 @@ This repository contains an AI SQL Generator, a tool powered by OpenAI's GPT-4 l
 3. The generated SQL query will be displayed in the code display area
    
 4. To clear the chat history, click the "Clear Chat" button
-
-<h1>Installation ⚙️</h1>
-
-1. Clone the repository
-
-2. Install dependencies
-
-3. Start the development server
 
 
 <h1>Notes 📝</h1>
